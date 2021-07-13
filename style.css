@@ -13,3 +13,15 @@
 .introbodybgcolor{
     background-color: silver;
 }
+.skills{
+    font-size: larger;
+    font-weight: lighter;
+    
+}
+.projectbgcolor{
+    background-color: rgb(226, 226, 226);
+}
+.footerstyle{
+    display:flex;
+    align-content: center;
+}
